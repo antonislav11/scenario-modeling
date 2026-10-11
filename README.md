@@ -1,4 +1,8 @@
-![Сценарный анализ и чувствительность](cover.svg)
+<img align="right" width="220" src="header-pattern.svg" alt="">
+
+# Сценарный анализ и чувствительность
+
+<br clear="all">
 
 ## Сценарии газосборной сети в tNavigator
 
