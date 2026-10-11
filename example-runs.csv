@@ -1,0 +1,7 @@
+run_id,correlation,water_mass_fraction,inlet_pressure,outlet_pressure,inlet_temperature,outlet_temperature,notes
+1,Example A,0.0,6.0,5.6,55.0,45.0,Условный пример; давление МПа; температура °C
+2,Example A,0.2,6.0,5.0,55.0,44.0,Условный пример; не результат tNavigator
+3,Example A,0.4,6.0,4.3,55.0,42.0,Условный пример; не результат tNavigator
+4,Example B,0.0,6.0,5.5,55.0,45.5,Условный пример; не результат tNavigator
+5,Example B,0.2,6.0,5.1,55.0,44.5,Условный пример; не результат tNavigator
+6,Example B,0.4,6.0,4.6,55.0,43.5,Условный пример; не результат tNavigator
